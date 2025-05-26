@@ -1,5 +1,5 @@
 https://github.com/ST10482011-Reokametswe-Skosana/IMAD_A2.git
-
+youtube : https://youtu.be/X2wvpdvv2bs
 This is a quiz app, it consists of quetions where the user can either answer yes or no. The user can review their score and see how much they got. they can then get feedback to see if they did good or may need motre practice. this app is a fun way of learning new things 
 
 
